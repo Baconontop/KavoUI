@@ -113,11 +113,11 @@ local themeStyles = {
         ElementColor = Color3.fromRGB(24, 24, 24)
     },
     Ice = {
-        SchemeColor = Color3.fromRGB(168, 50, 162),
-        Background = Color3.fromRGB(46, 43, 43),
-        Header = Color3.fromRGB(184, 179, 44),
+        SchemeColor = Color3.fromRGB(42, 170, 201),
+        Background = Color3.fromRGB(0, 0, 0),
+        Header = Color3.fromRGB(42, 170, 201),
         TextColor = Color3.fromRGB(255,255,255),
-        ElementColor = Color3.fromRGB(28, 179, 199)
+        ElementColor = Color3.fromRGB(42, 170, 20)
     }
 }
 local oldTheme = ""
