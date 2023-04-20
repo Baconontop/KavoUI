@@ -115,9 +115,9 @@ local themeStyles = {
     Ice = {
         SchemeColor = Color3.fromRGB(37, 53, 232),
         Background = Color3.fromRGB(0, 0, 0),
-        Header = Color3.fromRGB(227, 27, 27),
+        Header = Color3.fromRGB(224, 25, 25)
         TextColor = Color3.fromRGB(255,255,255),
-        ElementColor = Color3.fromRGB(137, 53, 232)
+        ElementColor = Color3.fromRGB(37, 53, 232)
     }
 }
 local oldTheme = ""
